@@ -138,11 +138,9 @@ A secure client-server email system built in Python that allows authenticated us
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 - **Email:** rimneet.cheema@gmail.com  
 - **LinkedIn:** [linkedin.com/in/rimneet-cheema-78670219b](https://www.linkedin.com/in/rimneet-cheema-78670219b)  
 - **GitHub:** [github.com/rcheemz](https://github.com/rcheemz)
 
 ---
-
-Thanks for stopping by!
